@@ -1,4 +1,4 @@
-<b>WHAT IS MICROSERVICES?</b>
+<b>WHAT IS MICROSERVICES?</b>cthe great&r
 Microservices are architectural design that structures different services. Earlier monolithic were used which works as a single unit. But it was not successful on the complex and larger applications, we will understand monolithic in detail later. Microservices are loosely coupled and distributed i.e. one change or error will not disturb the entire application. Developers are rapidly able to build new features to meet business need.
 
 WHY MICROSERVICES?
